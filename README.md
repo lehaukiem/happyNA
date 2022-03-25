@@ -2,4 +2,4 @@
 > Các bạn download source về và làm theo hương dẫn trong video nhé.
 
 
-![cover picture](./hpbd2021p1.jpg)
+![cover picture](./MyAvatar.jpg)
